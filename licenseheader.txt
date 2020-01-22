@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Copyright 2020-Current jittagornp.me
+<#if licenseLast??>
+${licenseLast}
+</#if>
