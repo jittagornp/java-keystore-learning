@@ -1,7 +1,7 @@
 /*
  * Copyright 2020-Current jittagornp.me
  */
-package me.jittagornp.learning.java.keystore.learning;
+package me.jittagornp.learning.java.keystore;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
